@@ -1,12 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Read each line of a file called person.inp and then relace characters 5-16 with a string then save the file as person2.inp
+﻿using System.Text;
 
-using System;
-using System.IO;
-using System.Text;
-
-string inputFilePath = Path.Combine(Directory.GetCurrentDirectory(), "person.inp");
-string outputFilePath = Path.Combine(Directory.GetCurrentDirectory(), "person_out.inp");
+Console.WriteLine("Enter the output file name");
+var outputFilename  = Console.ReadLine();
+;
+var inputFilePath = Path.Combine(Directory.GetCurrentDirectory(), "person.inp");
+var outputFilePath = Path.Combine(Directory.GetCurrentDirectory(), $"{outputFilename}.inp");
 
 if (!File.Exists(inputFilePath))
 {
