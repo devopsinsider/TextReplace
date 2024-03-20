@@ -5,8 +5,14 @@ using System;
 using System.IO;
 using System.Text;
 
-string inputFilePath = "person.inp";
-string outputFilePath = "person2.inp";
+string inputFilePath = Path.Combine(Directory.GetCurrentDirectory(), "person.inp");
+string outputFilePath = Path.Combine(Directory.GetCurrentDirectory(), "person_out.inp");
+
+if (!File.Exists(inputFilePath))
+{
+    Console.WriteLine($"Input file does not exist: {inputFilePath}");
+    return;
+}
 
 try
 {
