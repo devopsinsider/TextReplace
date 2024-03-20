@@ -1,0 +1,14 @@
+D:\source\repos\TextReplace\bin\Debug\net9.0\TextReplace.exe
+D:\source\repos\TextReplace\bin\Debug\net9.0\TextReplace.deps.json
+D:\source\repos\TextReplace\bin\Debug\net9.0\TextReplace.runtimeconfig.json
+D:\source\repos\TextReplace\bin\Debug\net9.0\TextReplace.dll
+D:\source\repos\TextReplace\bin\Debug\net9.0\TextReplace.pdb
+D:\source\repos\TextReplace\obj\Debug\net9.0\TextReplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\TextReplace\obj\Debug\net9.0\TextReplace.AssemblyInfoInputs.cache
+D:\source\repos\TextReplace\obj\Debug\net9.0\TextReplace.AssemblyInfo.cs
+D:\source\repos\TextReplace\obj\Debug\net9.0\TextReplace.csproj.CoreCompileInputs.cache
+D:\source\repos\TextReplace\obj\Debug\net9.0\TextReplace.dll
+D:\source\repos\TextReplace\obj\Debug\net9.0\refint\TextReplace.dll
+D:\source\repos\TextReplace\obj\Debug\net9.0\TextReplace.pdb
+D:\source\repos\TextReplace\obj\Debug\net9.0\TextReplace.genruntimeconfig.cache
+D:\source\repos\TextReplace\obj\Debug\net9.0\ref\TextReplace.dll
