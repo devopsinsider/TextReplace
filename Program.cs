@@ -2,7 +2,6 @@
 
 Console.WriteLine("Enter the output file name");
 var outputFilename  = Console.ReadLine();
-;
 var inputFilePath = Path.Combine(Directory.GetCurrentDirectory(), "person.inp");
 var outputFilePath = Path.Combine(Directory.GetCurrentDirectory(), $"{outputFilename}.inp");
 
