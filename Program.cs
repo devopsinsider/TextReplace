@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // Read each line of a file called person.inp and then relace characters 5-16 with a string then save the file as person2.inp
 
+using System;
+using System.IO;
 using System.Text;
 
 string inputFilePath = "person.inp";
