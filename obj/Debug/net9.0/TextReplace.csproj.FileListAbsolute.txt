@@ -12,3 +12,5 @@ D:\source\repos\TextReplace\obj\Debug\net9.0\refint\TextReplace.dll
 D:\source\repos\TextReplace\obj\Debug\net9.0\TextReplace.pdb
 D:\source\repos\TextReplace\obj\Debug\net9.0\TextReplace.genruntimeconfig.cache
 D:\source\repos\TextReplace\obj\Debug\net9.0\ref\TextReplace.dll
+D:\source\repos\TextReplace\bin\Debug\net9.0\person.inp
+D:\source\repos\TextReplace\obj\Debug\net9.0\TextReplace.sourcelink.json

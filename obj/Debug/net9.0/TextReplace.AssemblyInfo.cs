@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextReplace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b058c57db5afd130db2e28af87721e55e313864")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextReplace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextReplace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

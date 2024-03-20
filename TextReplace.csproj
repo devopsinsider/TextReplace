@@ -13,6 +13,9 @@
 
   <ItemGroup>
     <None Include="bin\Debug\net9.0\person.inp" />
+    <None Update="person.inp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
